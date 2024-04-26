@@ -1,0 +1,6 @@
+@Nxm_NRH_mgt_HostAddress = http://localhost:5175
+
+GET {{Nxm_NRH_mgt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

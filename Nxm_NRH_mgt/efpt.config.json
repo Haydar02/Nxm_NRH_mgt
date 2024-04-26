@@ -1,0 +1,77 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "Nxm_NRH_mgtContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Nxm_NRH_mgt",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[AggregatedService]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AggregatedServiceRelation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Groupp]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Participant]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ParticiPantBinding]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProfileRole]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Profiling]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ReceiverService]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ServicE]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "haydar-al-ghaza\\mssqlserver19.Nxm_NRH_mgt.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
